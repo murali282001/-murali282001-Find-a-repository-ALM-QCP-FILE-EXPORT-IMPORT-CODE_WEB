@@ -1,0 +1,56 @@
+2026-04-02 00:54:11,664 [INFO] [cac16756] Authenticating → https://demoesign24.alm.saas.microfocus.com/qcbin/rest/oauth2/login
+2026-04-02 00:54:14,013 [INFO] [cac16756] Authentication successful
+2026-04-02 00:54:14,013 [INFO] [cac16756] GET https://demoesign24.alm.saas.microfocus.com/qcbin/v2/sa/api/domains/MURALI/projects/yyyy/export
+2026-04-02 00:54:14,015 [INFO] [cac16756] Requesting export from ALM…
+2026-04-02 00:54:22,861 [INFO] [cac16756] Connected — Content-Type: application/json;charset=utf-8
+2026-04-02 00:54:22,865 [INFO] [cac16756] Downloading… 14 KB received
+2026-04-02 00:54:22,866 [INFO] [cac16756] Downloading… 19 KB received
+2026-04-02 00:54:22,867 [INFO] [cac16756] Downloading… 32 KB received
+2026-04-02 00:54:22,876 [INFO] [cac16756] Downloading… 35 KB received
+2026-04-02 00:54:23,146 [INFO] [cac16756] Downloading… 64 KB received
+2026-04-02 00:54:23,146 [INFO] [cac16756] Downloading… 65 KB received
+2026-04-02 00:54:23,680 [INFO] [cac16756] Downloading… 97 KB received
+2026-04-02 00:54:23,681 [INFO] [cac16756] Downloading… 129 KB received
+2026-04-02 00:54:23,681 [INFO] [cac16756] Downloading… 161 KB received
+2026-04-02 00:54:23,682 [INFO] [cac16756] Downloading… 193 KB received
+2026-04-02 00:54:24,224 [INFO] [cac16756] Downloading… 225 KB received
+2026-04-02 00:54:24,499 [INFO] [cac16756] Downloading… 257 KB received
+2026-04-02 00:54:24,735 [INFO] [cac16756] Downloading… 289 KB received
+2026-04-02 00:54:25,013 [INFO] [cac16756] Downloading… 321 KB received
+2026-04-02 00:54:25,015 [INFO] [cac16756] Downloading… 353 KB received
+2026-04-02 00:54:25,524 [INFO] [cac16756] Downloading… 385 KB received
+2026-04-02 00:54:25,830 [INFO] [cac16756] Downloading… 417 KB received
+2026-04-02 00:54:26,066 [INFO] [cac16756] Downloading… 450 KB received
+2026-04-02 00:54:26,067 [INFO] [cac16756] Downloading… 482 KB received
+2026-04-02 00:54:26,301 [INFO] [cac16756] Downloading… 514 KB received
+2026-04-02 00:54:26,547 [INFO] [cac16756] Downloading… 546 KB received
+2026-04-02 00:54:26,854 [INFO] [cac16756] Downloading… 577 KB received
+2026-04-02 00:54:27,090 [INFO] [cac16756] Downloading… 609 KB received
+2026-04-02 00:54:27,325 [INFO] [cac16756] Downloading… 642 KB received
+2026-04-02 00:54:27,562 [INFO] [cac16756] Downloading… 674 KB received
+2026-04-02 00:54:27,564 [INFO] [cac16756] Downloading… 706 KB received
+2026-04-02 00:54:27,799 [INFO] [cac16756] Downloading… 738 KB received
+2026-04-02 00:54:28,082 [INFO] [cac16756] Downloading… 770 KB received
+2026-04-02 00:54:28,318 [INFO] [cac16756] Downloading… 802 KB received
+2026-04-02 00:54:28,595 [INFO] [cac16756] Downloading… 834 KB received
+2026-04-02 00:54:28,902 [INFO] [cac16756] Downloading… 866 KB received
+2026-04-02 00:54:28,903 [INFO] [cac16756] Downloading… 898 KB received
+2026-04-02 00:54:29,211 [INFO] [cac16756] Downloading… 930 KB received
+2026-04-02 00:54:29,445 [INFO] [cac16756] Downloading… 962 KB received
+2026-04-02 00:54:29,681 [INFO] [cac16756] Downloading… 994 KB received
+2026-04-02 00:54:29,927 [INFO] [cac16756] Downloading… 1026 KB received
+2026-04-02 00:54:30,401 [INFO] [cac16756] Downloading… 1058 KB received
+2026-04-02 00:54:30,402 [INFO] [cac16756] Downloading… 1090 KB received
+2026-04-02 00:54:30,644 [INFO] [cac16756] Downloading… 1122 KB received
+2026-04-02 00:54:30,880 [INFO] [cac16756] Downloading… 1154 KB received
+2026-04-02 00:54:31,116 [INFO] [cac16756] Downloading… 1186 KB received
+2026-04-02 00:54:31,361 [INFO] [cac16756] Downloading… 1218 KB received
+2026-04-02 00:54:31,597 [INFO] [cac16756] Downloading… 1250 KB received
+2026-04-02 00:54:31,873 [INFO] [cac16756] Downloading… 1282 KB received
+2026-04-02 00:54:32,177 [INFO] [cac16756] Downloading… 1314 KB received
+2026-04-02 00:54:32,435 [INFO] [cac16756] Downloading… 1346 KB received
+2026-04-02 00:54:32,436 [INFO] [cac16756] Downloading… 1379 KB received
+2026-04-02 00:54:32,691 [INFO] [cac16756] Downloading… 1412 KB received
+2026-04-02 00:54:32,929 [INFO] [cac16756] Downloading… 1445 KB received
+2026-04-02 00:54:33,203 [INFO] [cac16756] Downloading… 1472 KB received
+2026-04-02 00:54:33,209 [INFO] [cac16756] Export complete — 1472.8 KB  →  yyyy_20260402_005433.qcp
