@@ -33,16 +33,18 @@ load_dotenv()
 # ---------------------------------------------------------------------------
 # App setup
 # ---------------------------------------------------------------------------
+BASE_DIR = Path(__file__).parent          # always points to the folder containing main.py
+
 app = FastAPI(title="QCP Export & Import Tool", version="1.0.0")
-app.mount("/static", StaticFiles(directory="static"), name="static")
-templates = Jinja2Templates(directory="templates")
+app.mount("/static", StaticFiles(directory=BASE_DIR / "static"), name="static")
+templates = Jinja2Templates(directory=BASE_DIR / "templates")
 
 # ---------------------------------------------------------------------------
 # Constants
 # ---------------------------------------------------------------------------
 LOGIN_PATH      = "/qcbin/rest/oauth2/login"
 REQUEST_TIMEOUT = 120
-LOG_FILE        = Path(__file__).parent / "qcp_web.log"
+LOG_FILE        = Path(__file__).resolve().parent / "qcp_web.log"
 
 DB_TYPES = {"MS SQL Server": "2", "Oracle": "3"}
 
