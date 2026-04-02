@@ -54,3 +54,64 @@
 2026-04-02 00:54:32,929 [INFO] [cac16756] Downloading… 1445 KB received
 2026-04-02 00:54:33,203 [INFO] [cac16756] Downloading… 1472 KB received
 2026-04-02 00:54:33,209 [INFO] [cac16756] Export complete — 1472.8 KB  →  yyyy_20260402_005433.qcp
+2026-04-02 11:18:34,821 [INFO] [64fd9246] Authenticating → https://demoesign24.alm.saas.microfocus.com/qcbin/rest/oauth2/login
+2026-04-02 11:18:36,851 [INFO] [64fd9246] Authentication successful
+2026-04-02 11:18:36,851 [INFO] [64fd9246] GET https://demoesign24.alm.saas.microfocus.com/qcbin/v2/sa/api/domains/MURALI/projects/yyyy/export
+2026-04-02 11:18:36,851 [INFO] [64fd9246] Requesting export from ALM…
+2026-04-02 11:18:50,967 [INFO] [64fd9246] Connected — Content-Type: application/json;charset=utf-8
+2026-04-02 11:18:50,972 [INFO] [64fd9246] Downloading… 4 KB received
+2026-04-02 11:18:50,973 [INFO] [64fd9246] Downloading… 7 KB received
+2026-04-02 11:18:51,191 [INFO] [64fd9246] Downloading… 14 KB received
+2026-04-02 11:18:51,192 [INFO] [64fd9246] Downloading… 16 KB received
+2026-04-02 11:18:51,193 [INFO] [64fd9246] Downloading… 20 KB received
+2026-04-02 11:18:51,195 [INFO] [64fd9246] Downloading… 31 KB received
+2026-04-02 11:18:51,423 [INFO] [64fd9246] Downloading… 47 KB received
+2026-04-02 11:18:51,424 [INFO] [64fd9246] Downloading… 48 KB received
+2026-04-02 11:18:51,426 [INFO] [64fd9246] Downloading… 56 KB received
+2026-04-02 11:18:51,428 [INFO] [64fd9246] Downloading… 64 KB received
+2026-04-02 11:18:51,428 [INFO] [64fd9246] Downloading… 70 KB received
+2026-04-02 11:18:51,655 [INFO] [64fd9246] Downloading… 102 KB received
+2026-04-02 11:18:51,659 [INFO] [64fd9246] Downloading… 134 KB received
+2026-04-02 11:18:51,663 [INFO] [64fd9246] Downloading… 166 KB received
+2026-04-02 11:18:51,665 [INFO] [64fd9246] Downloading… 198 KB received
+2026-04-02 11:18:51,889 [INFO] [64fd9246] Downloading… 230 KB received
+2026-04-02 11:18:51,892 [INFO] [64fd9246] Downloading… 262 KB received
+2026-04-02 11:18:51,894 [INFO] [64fd9246] Downloading… 294 KB received
+2026-04-02 11:18:51,896 [INFO] [64fd9246] Downloading… 326 KB received
+2026-04-02 11:18:51,923 [INFO] [64fd9246] Downloading… 358 KB received
+2026-04-02 11:18:52,126 [INFO] [64fd9246] Downloading… 390 KB received
+2026-04-02 11:18:52,128 [INFO] [64fd9246] Downloading… 422 KB received
+2026-04-02 11:18:52,130 [INFO] [64fd9246] Downloading… 454 KB received
+2026-04-02 11:18:52,133 [INFO] [64fd9246] Downloading… 486 KB received
+2026-04-02 11:18:52,155 [INFO] [64fd9246] Downloading… 518 KB received
+2026-04-02 11:18:52,354 [INFO] [64fd9246] Downloading… 550 KB received
+2026-04-02 11:18:52,355 [INFO] [64fd9246] Downloading… 582 KB received
+2026-04-02 11:18:52,387 [INFO] [64fd9246] Downloading… 614 KB received
+2026-04-02 11:18:52,389 [INFO] [64fd9246] Downloading… 646 KB received
+2026-04-02 11:18:52,582 [INFO] [64fd9246] Downloading… 678 KB received
+2026-04-02 11:18:52,583 [INFO] [64fd9246] Downloading… 710 KB received
+2026-04-02 11:18:52,587 [INFO] [64fd9246] Downloading… 742 KB received
+2026-04-02 11:18:52,618 [INFO] [64fd9246] Downloading… 774 KB received
+2026-04-02 11:18:52,619 [INFO] [64fd9246] Downloading… 806 KB received
+2026-04-02 11:18:52,816 [INFO] [64fd9246] Downloading… 838 KB received
+2026-04-02 11:18:52,818 [INFO] [64fd9246] Downloading… 870 KB received
+2026-04-02 11:18:52,819 [INFO] [64fd9246] Downloading… 902 KB received
+2026-04-02 11:18:52,852 [INFO] [64fd9246] Downloading… 934 KB received
+2026-04-02 11:18:52,856 [INFO] [64fd9246] Downloading… 966 KB received
+2026-04-02 11:18:53,056 [INFO] [64fd9246] Downloading… 998 KB received
+2026-04-02 11:18:53,059 [INFO] [64fd9246] Downloading… 1030 KB received
+2026-04-02 11:18:53,061 [INFO] [64fd9246] Downloading… 1062 KB received
+2026-04-02 11:18:53,082 [INFO] [64fd9246] Downloading… 1094 KB received
+2026-04-02 11:18:53,083 [INFO] [64fd9246] Downloading… 1126 KB received
+2026-04-02 11:18:53,277 [INFO] [64fd9246] Downloading… 1158 KB received
+2026-04-02 11:18:53,279 [INFO] [64fd9246] Downloading… 1190 KB received
+2026-04-02 11:18:53,281 [INFO] [64fd9246] Downloading… 1222 KB received
+2026-04-02 11:18:53,315 [INFO] [64fd9246] Downloading… 1254 KB received
+2026-04-02 11:18:53,321 [INFO] [64fd9246] Downloading… 1286 KB received
+2026-04-02 11:18:53,511 [INFO] [64fd9246] Downloading… 1319 KB received
+2026-04-02 11:18:53,513 [INFO] [64fd9246] Downloading… 1351 KB received
+2026-04-02 11:18:53,522 [INFO] [64fd9246] Downloading… 1384 KB received
+2026-04-02 11:18:53,546 [INFO] [64fd9246] Downloading… 1417 KB received
+2026-04-02 11:18:53,548 [INFO] [64fd9246] Downloading… 1449 KB received
+2026-04-02 11:18:53,743 [INFO] [64fd9246] Downloading… 1472 KB received
+2026-04-02 11:18:53,754 [INFO] [64fd9246] Export complete — 1472.8 KB  →  yyyy_20260402_111853.qcp
